@@ -1,0 +1,13 @@
+.ToDoList{
+	width:80%;
+	margin:auto;
+}
+.Tasks{
+	width:80%;
+	margin: auto; 
+	display:inline-block;
+}
+.task-input{
+	display:block;
+	margin:auto;
+}
